@@ -2,7 +2,7 @@
 
 ## Setting up aliases
 
-We want to put all our additions into a separate file like ~/.bash_aliases, instead of adding them to "~/.bashrc" directly.
+We want to put all our additions into a separate file like \~/.bash_aliases, instead of adding them to "\~/.bashrc" directly.
 
 Create a file called ".bash_aliases" using command below.
 
